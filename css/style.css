@@ -92,7 +92,7 @@ Main Components
     left: 0;
     height: 100%;
     width: 100%;
-    padding-top: 100px;
+    padding-top: 150px;
   }
   .cd-schedule .timeline li {
     position: relative;
@@ -149,11 +149,10 @@ Main Components
 .cd-schedule .events .top-info > span {
   display: inline-block;
   line-height: 1.2;
-  margin-bottom: 10px;
   font-weight: bold;
 }
 .cd-schedule .events .top-info img{
- height:50px;
+ height:40px;
 }
 
 .cd-schedule .events .events-group > ul {
